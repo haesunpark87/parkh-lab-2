@@ -1,73 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+bio: My research interests include computational materials science, energy storage/conversion materials, data-drive materials discovery.
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: PhD in Mech. Eng.
+    institution: University of Michigan - Ann Arbor
+    year: 2019
+  - course: MSE in Mech. Eng.
+    institution: University of Michigan - Ann Arbor
+    year: 2015
+  - course: BS in Mech. & Aerospace Eng.
+    institution: Seoul National University
+    year: 2013
+email: ""
+highlight_name: True
+interests:
+- Computational Materials Science
+- Energy Storage/Conversion Materials
+- Data-driven Discovery of Materials
+organizations:
+- name: Chung-Ang University
+  link: www.cau.ac.kr
+role: Assistant Professof of Integrative Engineering
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+- icon: envelope
+  icon_pack: fas
+  link: mailto:parkh@cau.ac.kr
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=XKMG__wAAAAJ&hl=kr
+- icon: cv
+  icon_pack: ai
+  link: 'files/cv.pdf'
+superuser: true
+title: Park, Haesun
 user_groups:
-  - Researchers
+- Principal Investigator
 ---
+Haesun Park is a assistant professor of school of integrative engineering at Chung-Ang Unversity. His research interests include  computational materials science, energy storage/conversion materials, data-drive materials . 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
