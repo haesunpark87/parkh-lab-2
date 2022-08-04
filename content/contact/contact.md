@@ -7,7 +7,7 @@ content:
     postcode: "06974"
     region: Seoul
     street: 84 Heukseok-ro
-  appointment_url: https://calendly.com
+#  appointment_url: https://calendly.com
   autolink: true
   coordinates:
     latitude: "37.5032"
