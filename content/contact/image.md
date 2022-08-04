@@ -12,10 +12,10 @@ design:
   columns: "1"
   spacing:
     padding:
-    - 20px
-    - "0"
-    - 20px
-    - "0"
+    - 50px
+    - "50"
+    - 50px
+    - "50"
 headless: true
 subtitle: null
 title: null
