@@ -32,7 +32,7 @@ content:
     - name: Multivalent Batteries
       tag: MV
     - name: Data-driven Discovery Materials
-      tag: NVL
+      tag: DDD
   design:
     # Choose how many columns the section has. Valid values: '1' or '2'.
     columns: '2'
@@ -41,7 +41,7 @@ content:
     # For Showcase view, flip alternate rows?
     flip_alt_rows: false
 design:
-  columns: '2'
+  columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
