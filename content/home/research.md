@@ -11,7 +11,7 @@ headless: true
 weight: 10
 
 title: 'Research Ares'
-subtitle: ''
+subtitle: 'We aims to tackle the challenges related to energy problems.'
 
 content:
   # Page type to display. E.g. project.
@@ -32,16 +32,16 @@ content:
     - name: Multivalent Batteries
       tag: MV
     - name: Data-driven Discovery Materials
-      tag: NLP
+      tag: NVL
   design:
     # Choose how many columns the section has. Valid values: '1' or '2'.
     columns: '2'
     # Choose a listing view
-    view: 1
+    view: 2
     # For Showcase view, flip alternate rows?
     flip_alt_rows: false
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
