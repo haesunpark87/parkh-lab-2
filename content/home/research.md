@@ -16,7 +16,6 @@ subtitle: ''
 content:
   # Page type to display. E.g. project.
   page_type: research
-
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -26,15 +25,21 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-#    - name: All
-#      tag: '*'
+    - name: All
+      tag: '*'
     - name: Advanced Li-ion 
       tag: ALB
     - name: Multivalent Batteries
-      tag: CV
+      tag: MV
     - name: Data-driven Discovery Materials
       tag: NLP
-
+  design:
+    # Choose how many columns the section has. Valid values: '1' or '2'.
+    columns: '2'
+    # Choose a listing view
+    view: 1
+    # For Showcase view, flip alternate rows?
+    flip_alt_rows: false
 design:
   columns: '1'
   view: masonry

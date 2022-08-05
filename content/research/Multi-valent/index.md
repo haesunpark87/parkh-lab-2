@@ -1,8 +1,8 @@
 ---
-title: Advanced Li-ion 
+title: Multivalent Batteries
 summary: 
 tags:
-  - ALB
+  - MV
 date: 2022-01-01
 #external_link: http://github.com
 design:
