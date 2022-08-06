@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Research Areas
 
 # Listing view
 view: 5

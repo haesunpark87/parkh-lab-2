@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: Masonry
-  columns: '2'
+  view: 2
+  columns: '1'
 ---

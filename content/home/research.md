@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 'Research Ares'
+title: Research Areas
 subtitle: ''
 
 content:
