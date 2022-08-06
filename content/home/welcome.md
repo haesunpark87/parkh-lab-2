@@ -19,6 +19,6 @@ design:
 
 <br>
 
-We aim to study, understand, and design new materials for energy storage and converion application with computational approaches based on atomistic modeling
+We aim to study, understand, and design new materials for energy storage and converion application with computational approaches based on computational methods including atomistic modeling and data-driven approaches
 
 
