@@ -54,9 +54,9 @@ social:
   icon_pack: ai
   link: 'files/cv.pdf'
 superuser: true
-title: Park, Haesun
+title: Haesun Park
 user_groups:
-#- Principal Investigator
+- Principal Investigator
 ---
 Haesun Park is a assistant professor of school of integrative engineering at Chung-Ang Unversity. His research interests include  computational materials science, energy storage/conversion materials, data-drive materials . 
 
