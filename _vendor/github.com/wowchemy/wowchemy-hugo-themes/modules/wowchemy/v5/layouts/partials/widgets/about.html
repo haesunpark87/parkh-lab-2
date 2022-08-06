@@ -25,7 +25,7 @@
       {{ if site.Params.features.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
       {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      {{ $avatar_image := $avatar.Fill "400x400 Center" }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}"
            src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
@@ -91,29 +91,69 @@
 
     <div class="row">
 
-      {{ with $person.interests }}
-      <div class="col-md-5">
-        <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
-        <ul class="ul-interests mb-0">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
+      {{ with $person.experience }}
+      <div class="col-xs-1">
+        <div class="section-subheading">{{ i18n "experience" | markdownify }}</div>
+        <ul class="ul-edu fa-ul mb-0">
+          {{ range .positions }}
+          <li>
+            <!---<i class="fa-li fas fa-graduation-cap"></i>--->
+            {{- if .institution_logo}}
+            {{- $jpg_icon := resources.Get (printf "media/icons/%s" .institution_logo) -}}
+            {{ if not $jpg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/%s`" .institution_logo }}{{end}}            
+            <div class="d-flex align-content-start">
+              <div class="mr-2 mb-2">
+                {{- with .institution_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+                <img src="{{ $jpg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.institution | plainify}}" loading="lazy">
+                {{- with .institution_url}}</a>{{end -}}
+              </div>
+              <div>
+            {{ end }}              
+              
+            <div class="description">
+              <p class="position">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
           {{ end }}
         </ul>
       </div>
       {{ end }}
 
       {{ with $person.education }}
-      <div class="col-md-7">
+      <div class="col-xs-5">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+            <!---<i class="fa-li fas fa-graduation-cap"></i>--->
+            {{- if .institution_logo}}
+            {{- $jpg_icon := resources.Get (printf "media/icons/%s" .institution_logo) -}}
+            {{ if not $jpg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/%s`" .institution_logo }}{{end}}            
+            <div class="d-flex align-content-start">
+              <div class="mr-2 mb-2">
+                {{- with .institution_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+                <img src="{{ $jpg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.institution | plainify}}" loading="lazy">
+                {{- with .institution_url}}</a>{{end -}}
+              </div>
+              <div>
+            {{ end }}                 
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
           </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ with $person.interests }}
+      <div class="col-xs-1">
+        <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
+        <ul class="ul-interests mb-0">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       </div>

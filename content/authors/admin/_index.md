@@ -3,6 +3,7 @@ bio: My research interests include computational materials science, energy stora
 education:
   courses:
   - course: PhD in Mech. Eng.
+    department: Mechanical
     institution: University of Michigan - Ann Arbor
     year: 2019
   - course: MSE in Mech. Eng.
@@ -10,17 +11,32 @@ education:
     year: 2015
   - course: BS in Mech. & Aerospace Eng.
     institution: Seoul National University
+    institution_logo : snu_logo.jpg
     year: 2013
+    
+experience:
+  positions:
+  - position: Assistant Professor
+    institution: Intergrative Engineering, Chung-Ang University, Seoul, South Korea
+    year: 2021.09 ~ Present
+    institution_logo : cau_logo.png
+    institution_url : www.cau.ac.kr
+  - position: Postdoctoral Appointee
+    institution: Argonne National Laboratory, Lemont, IL USA
+    institution_logo : argonne_logo.png
+    institution_url : www.anl.gov
+    year: 2019.02 ~ 2021.08
+  
 email: ""
 highlight_name: True
-interests:
-- Computational Materials Science
-- Energy Storage/Conversion Materials
-- Data-driven Discovery of Materials
+#interests:
+#- Computational Materials Science
+#- Energy Storage/Conversion Materials
+#- Data-driven Discovery of Materials
 organizations:
 - name: Chung-Ang University
   link: www.cau.ac.kr
-role: Assistant Professof of Integrative Engineering
+role: Assistant Professoror of Integrative Engineering
 social:
 - icon: envelope
   icon_pack: fas
