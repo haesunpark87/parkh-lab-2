@@ -11,7 +11,7 @@ headless: true
 weight: 10
 
 title: 'Research Ares'
-subtitle: 'We aims to tackle the challenges related to energy problems.'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -27,7 +27,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Advanced Li-ion 
+    - name: Solid-state Batteries 
       tag: ALB
     - name: Multivalent Batteries
       tag: MV

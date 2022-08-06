@@ -6,13 +6,19 @@ education:
     department: Mechanical
     institution: University of Michigan - Ann Arbor
     year: 2019
+    institution_logo : umich_logo.jpg
+    institution_url : 'http://www.umich.edu'    
   - course: MSE in Mech. Eng.
     institution: University of Michigan - Ann Arbor
     year: 2015
+    institution_logo : umich_logo.jpg
+    institution_url : 'http://www.umich.edu'
   - course: BS in Mech. & Aerospace Eng.
     institution: Seoul National University
-    institution_logo : snu_logo.jpg
     year: 2013
+    institution_logo : snu_logo.jpg
+    institution_url : 'https://en.snu.ac.kr'    
+    
     
 experience:
   positions:
@@ -20,11 +26,11 @@ experience:
     institution: Intergrative Engineering, Chung-Ang University, Seoul, South Korea
     year: 2021.09 ~ Present
     institution_logo : cau_logo.png
-    institution_url : 'www.cau.ac.kr'
+    institution_url : 'https://neweng.cau.ac.kr/index.do'
   - position: Postdoctoral Appointee
-    institution: Argonne National Laboratory, Lemont, IL USA
+    institution: Materials Science Division, Argonne National Laboratory, Lemont, IL USA
     institution_logo : argonne_logo.png
-    institution_url : 'www.anl.gov'
+    institution_url : 'http://www.anl.gov'
     year: 2019.02 ~ 2021.08
   
 email: ""
@@ -35,7 +41,7 @@ highlight_name: True
 #- Data-driven Discovery of Materials
 organizations:
 - name: Chung-Ang University
-  link: www.cau.ac.kr
+  link: http://www.cau.ac.kr
 role: Assistant Professoror of Integrative Engineering
 social:
 - icon: envelope
