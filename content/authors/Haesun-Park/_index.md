@@ -2,19 +2,19 @@
 bio: My research interests include computational materials science, energy storage/conversion materials, data-drive materials discovery.
 education:
   courses:
-  - course: PhD in Mech. Eng.
+  - course: PhD in Mechanical Engineering
     department: Mechanical
-    institution: University of Michigan - Ann Arbor
+    institution: University of Michigan - Ann Arbor, MI USA
     year: 2019
     institution_logo : umich_logo.jpg
     institution_url : 'http://www.umich.edu'    
-  - course: MSE in Mech. Eng.
-    institution: University of Michigan - Ann Arbor
+  - course: MSE in Mechanical Engineering
+    institution: University of Michigan - Ann Arbor, MI USA
     year: 2015
     institution_logo : umich_logo.jpg
     institution_url : 'http://www.umich.edu'
-  - course: BS in Mech. & Aerospace Eng.
-    institution: Seoul National University
+  - course: BS in Mechanical & Aerospace Engineering
+    institution: Seoul National University, Seoul South Korea
     year: 2013
     institution_logo : snu_logo.jpg
     institution_url : 'https://en.snu.ac.kr'    
@@ -23,7 +23,7 @@ education:
 experience:
   positions:
   - position: Assistant Professor
-    institution: Intergrative Engineering, Chung-Ang University, Seoul, South Korea
+    institution: School of Integrative Engineering, Chung-Ang University, Seoul, South Korea
     year: 2021.09 ~ Present
     institution_logo : cau_logo.png
     institution_url : 'https://neweng.cau.ac.kr/index.do'
@@ -42,7 +42,7 @@ highlight_name: True
 organizations:
 - name: Chung-Ang University
   link: http://www.cau.ac.kr
-role: Assistant Professoror of Integrative Engineering
+role: Assistant Professor of Integrative Engineering
 social:
 - icon: envelope
   icon_pack: fas
