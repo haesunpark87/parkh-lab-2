@@ -32,7 +32,7 @@ author_notes:
   - 'Corresponding Author'
   - ''  
   - 'Corresponding Author'
-date: '2020/9/14'
+date: '2020/09/14'
 doi: '10.1021/acsenergylett.0c01663'
 publication_types: ['2']
 publication: '*ACS Energy Letters 5*, (10), 3203–3211'

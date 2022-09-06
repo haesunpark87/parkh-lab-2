@@ -34,7 +34,7 @@ author_notes:
   - ''
   - ''
   - 'Corresponding Author'
-date: '2020/7/14'
+date: '2020/07/14'
 doi: '10.1021/acs.chemmater.0c01988'
 publication_types: ['2']
 publication: '*Chemistry of Materials 32*, 15, 6577–6587'
