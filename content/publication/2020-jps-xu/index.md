@@ -23,7 +23,7 @@ author_notes:
   - 'Corresponding Author'
   - 'Corresponding Author'
   
-date: '2020/02/22'
+date: '2020-02-22'
 doi: '10.1016/j.jpowsour.2019.227478'
 publication_types: ['2']
 publication: '*Journal of Power Sources 451*, 227478'
