@@ -23,7 +23,7 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Ho Seok Kim
+title: Ho Seok Lee
 user_groups:
 - UnderGrad Students
 ---
