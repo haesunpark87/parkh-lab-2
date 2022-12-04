@@ -2,7 +2,7 @@
 title: Photos
 
 # Listing view
-view: 2
+view: compact_revised
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
