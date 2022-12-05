@@ -6,5 +6,5 @@ image:
   focal_point: 'top'
 ---
 
-Haesun gave a invited talk at the 2022 Fall Meeting of the Korean Electrochemical Society!
+Haesun gave an invited talk at the 2022 Fall Meeting of the Korean Electrochemical Society!
 <!--more-->
