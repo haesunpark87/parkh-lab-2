@@ -13,6 +13,11 @@ organizations:
   url: ""
 role: 
 social:
+
+interests:
+- Solid-state Batteries
+
+
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:parkh@cau.ac.kr
@@ -23,7 +28,7 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Heysu Lee
+title: Heysu Lee, 이혜수
 user_groups:
 - UnderGrad Students
 ---

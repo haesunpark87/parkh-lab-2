@@ -1,9 +1,12 @@
 ---
 education:
   courses:
-  - course: BS in Integrative Engineering
+  - course: MS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2023~  
+  - course: BS in Mechanical Engineering
+    institution: Chung-Ang University
+    year: 2022
 email: ""
 highlight_name: True
 interests:
@@ -11,9 +14,8 @@ interests:
 organizations:
 - name: Chung-Ang University
   url: ""
-
 interests:
- - Ca Batteries
+- Ca-ion Batteries
 
 role: 
 social:
@@ -27,9 +29,9 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Ho Seok Lee, 이호석
+title: Daehyun Kim, 김대현
 user_groups:
-- Alumni
+- Graduate Students
 ---
 
 
