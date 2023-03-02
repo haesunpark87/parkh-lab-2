@@ -28,7 +28,7 @@ interests:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Myeong Jun Kim, 김명준
+title: Myeong Jun Kim (김명준)
 user_groups:
 - UnderGrad Students
 ---

@@ -54,7 +54,7 @@ social:
   icon_pack: ai
   link: 'files/cv.pdf'
 superuser: true
-title: Haesun Park, 박해선
+title: Haesun Park (박해선)
 user_groups:
 - Principal Investigator
 ---
