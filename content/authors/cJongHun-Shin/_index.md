@@ -15,8 +15,8 @@ role:
 social:
 
 interests:
-#- Ca Batteries
-#- Data-Driven Discovery of Materials
+#- Solid-state Batteries
+
 
 #- icon: envelope
 #  icon_pack: fas
