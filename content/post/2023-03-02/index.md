@@ -6,6 +6,6 @@ image:
   focal_point: 'top'
 ---
 
-JongHun and Minsoo joined our group undergraduate researchers. Welcome!
+JongHun and Minsoo joined our group as undergraduate researchers. Welcome!
 
 <!--more-->
