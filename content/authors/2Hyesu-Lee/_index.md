@@ -28,7 +28,7 @@ interests:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Heysu Lee (이혜수)
+title: Hyesu Lee (이혜수)
 user_groups:
 - UnderGrad Students
 ---
