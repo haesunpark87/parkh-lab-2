@@ -10,9 +10,9 @@ content:
 #  appointment_url: https://calendly.com
   autolink: true
   coordinates:
-    latitude: "37.5032"
-    longitude: "126.958"
-  directions: Enter Building 209 and take the elevator to Office 609 on Floor 6
+    latitude: "37.5036"
+    longitude: "126.9571"
+  directions: Enter Building 208 and take the elevator to Office 527-1 on Floor 5
   email: parkh@cau.ac.kr
   form:
     formspree:
