@@ -18,8 +18,6 @@ interests:
 - Ca Batteries
 - Data-Driven Discovery of Materials
 
-Current position:
-- TBD
 
 #- icon: envelope
 #  icon_pack: fas
