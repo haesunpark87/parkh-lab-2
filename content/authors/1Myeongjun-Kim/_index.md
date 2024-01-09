@@ -3,7 +3,7 @@ education:
   courses:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2024
 email: ""
 highlight_name: True
 interests:
@@ -18,6 +18,9 @@ interests:
 - Ca Batteries
 - Data-Driven Discovery of Materials
 
+Current position:
+- TBD
+
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:parkh@cau.ac.kr
@@ -30,7 +33,7 @@ interests:
 superuser: false
 title: Myeong Jun Kim (김명준)
 user_groups:
-- UnderGrad Students
+- Alumni
 ---
 
 

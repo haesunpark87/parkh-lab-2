@@ -3,7 +3,7 @@ education:
   courses:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2024
 email: ""
 highlight_name: True
 interests:
@@ -15,7 +15,7 @@ role:
 social:
 
 interests:
-#- Solid-state Batteries
+- Silicon Anode
 
 
 #- icon: envelope
@@ -30,7 +30,7 @@ interests:
 superuser: false
 title: JongHun Shin (신종훈)
 user_groups:
-- UnderGrad Students
+- Alumni
 ---
 
 

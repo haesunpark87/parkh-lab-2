@@ -3,7 +3,7 @@ education:
   courses:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2023
 email: ""
 highlight_name: True
 interests:
@@ -11,12 +11,13 @@ interests:
 organizations:
 - name: Chung-Ang University
   url: ""
-
-interests:
- - Ca Batteries
-
 role: 
 social:
+
+interests:
+- Ca batteries
+
+
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:parkh@cau.ac.kr
@@ -27,7 +28,7 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Ho Seok Lee (이호석)
+title: Hoseok Lee (이호석)
 user_groups:
 - Alumni
 ---

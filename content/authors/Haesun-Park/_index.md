@@ -8,16 +8,16 @@ education:
     year: 2019
     institution_logo : umich_logo.jpg
     institution_url : 'http://www.umich.edu'    
-#  - course: MSE in Mechanical Engineering
-#    institution: University of Michigan - Ann Arbor, MI USA
-#    year: 2015
-#    institution_logo : umich_logo.jpg
-#    institution_url : 'http://www.umich.edu'
-#  - course: BS in Mechanical & Aerospace Engineering
-#    institution: Seoul National University, Seoul South Korea
-#    year: 2013
-#    institution_logo : snu_logo.jpg
-#    institution_url : 'https://en.snu.ac.kr'    
+  - course: MSE in Mechanical Engineering
+    institution: University of Michigan - Ann Arbor, MI USA
+    year: 2015
+    institution_logo : umich_logo.jpg
+    institution_url : 'http://www.umich.edu'
+  - course: BS in Mechanical & Aerospace Engineering
+    institution: Seoul National University, Seoul South Korea
+    year: 2013
+    institution_logo : snu_logo.jpg
+    institution_url : 'https://en.snu.ac.kr'    
     
     
 experience:

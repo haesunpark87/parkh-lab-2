@@ -15,7 +15,7 @@ role:
 social:
 
 interests:
-#- Solid-state Batteries
+- Solid-state Batteries
 
 
 #- icon: envelope
