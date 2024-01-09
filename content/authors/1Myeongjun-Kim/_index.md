@@ -33,5 +33,7 @@ title: Myeong Jun Kim (김명준)
 user_groups:
 - Alumni
 ---
+Current Position : Graduate Student @ Seoul National University
 
+---
 

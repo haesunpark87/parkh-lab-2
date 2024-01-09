@@ -32,5 +32,7 @@ title: Hoseok Lee (이호석)
 user_groups:
 - Alumni
 ---
+Current Position: Graduate Student @ SKKU
 
+---
 

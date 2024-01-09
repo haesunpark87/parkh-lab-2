@@ -32,5 +32,8 @@ title: JongHun Shin (신종훈)
 user_groups:
 - Alumni
 ---
+Current Position : TBD
+
+---
 
 
