@@ -1,6 +1,9 @@
 ---
 education:
   courses:
+  - course: MS in Integrative Engineering
+    institution: Chung-Ang University
+    year: 2024~
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
     year: 2024
@@ -15,7 +18,7 @@ role:
 social:
 
 interests:
-- Silicon Anode
+- Nex-Gneration Anode
 
 
 #- icon: envelope
@@ -30,9 +33,8 @@ interests:
 superuser: false
 title: JongHun Shin (신종훈)
 user_groups:
-- Alumni
+- Graduate Students
 ---
-Current Position : TBD
 
 ---
 

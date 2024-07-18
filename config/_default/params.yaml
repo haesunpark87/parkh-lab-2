@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: 2021
+  theme_day: ocean
   theme_night:
-  font: native
-  font_size: L
+  font: Cyberpunk
+  font_size: xl
 
 # SEO
 
