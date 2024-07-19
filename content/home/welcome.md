@@ -17,7 +17,7 @@ design:
   css_class:
 ---
 
-<p style="font-size: 20px">We aim to study, understand, and design new materials for energy storage and converion application with computational approaches including atomistic modeling and data-driven approaches</p>
+<p style="font-size: 20px">We aim to study, understand, and design new materials for energy storage and converion application with computational methods including atomistic modeling and data-driven approaches</p>
 
 
 

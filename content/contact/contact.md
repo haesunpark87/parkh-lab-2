@@ -14,12 +14,12 @@ content:
     longitude: "126.9571"
   directions: Enter Building 208 and take the elevator to Office 527-1 on Floor 5
   email: parkh@cau.ac.kr
-  form:
-    formspree:
-      id: null
-    netlify:
-      captcha: false
-    provider: netlify
+#  form:
+#    formspree:
+#      id: null
+#    netlify:
+#      captcha: false
+#    provider: netlify
 #  office_hours:
 #  - Monday 10:00 to 13:00
 #  - Wednesday 09:00 to 10:00
