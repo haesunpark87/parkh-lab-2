@@ -3,7 +3,7 @@ education:
   courses:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2024
 email: ""
 highlight_name: True
 interests:
@@ -30,7 +30,9 @@ interests:
 superuser: false
 title: Hyesu Lee (이혜수)
 user_groups:
-- UnderGrad Students
+- Alumni
+---
+Current Position: TBD
 ---
 
 

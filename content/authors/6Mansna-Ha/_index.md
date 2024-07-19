@@ -3,10 +3,10 @@ education:
   courses:
   - course: MS in Integrative Engineering
     institution: Chung-Ang University
-    year: 2023~  
-  - course: BS in Mechanical Engineering
-    institution: Chung-Ang University
-    year: 2022
+    year: 2024~  
+  - course: BS, Department of Packaging
+    institution: Yonsei University
+    year: 2024
 email: ""
 highlight_name: True
 interests:
@@ -15,7 +15,7 @@ organizations:
 - name: Chung-Ang University
   url: ""
 interests:
-- Ca-ion Batteries
+- All-Solid-State Batteries
 
 role: 
 social:
@@ -29,7 +29,7 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Daehyun Kim (김대현)
+title: Mansang Ha (하만상)
 user_groups:
 - Graduate Students
 ---

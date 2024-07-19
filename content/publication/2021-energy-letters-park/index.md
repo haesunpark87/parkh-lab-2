@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ACS Energy Letters, 6*, (1), 150-157'
+publication: '*ACS Energy Letters, 6*, (1), 150-157 (2021)'
 publication_short: ''
 
 abstract: Reduction or oxidation of a solid electrolyte (SE) by the electrodes of a battery can inject electrons or holes into the SE, inducing unwanted electrical conductivity and/or precipitating harmful interfacial reactions. Here, the likelihood for charge injection from a Li metal anode to 10 sulfide-based SEs is determined by computing the positions of the SE’s band edges with respect to the electrochemical potential of the electrode. Although these SEs exhibit large band gaps (>4 eV), nearly all are susceptible to electron injection. One notable exception is the B-containing sulfide Li3BS3, which exhibits the greatest resistance to reduction. The trends in charge transfer stability are compared to those for chemical stability with a Li anode and are found to be similar. The combined characterization of chemical and charge transfer phenomena allows for a comprehensive assessment of interfacial stability. The utility of this approach is demonstrated by interpreting recent experiments on the Li/Li2H2PO4/LGPS interface system.
