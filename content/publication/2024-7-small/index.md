@@ -16,7 +16,7 @@ author_notes:
 date: '2024-08-01'
 doi: 
 publication_types: ['2']
-publication: '*Under Reivew*'
+publication: '*Small*, Accepted'
 abstract: 
 url_pdf: 
 
