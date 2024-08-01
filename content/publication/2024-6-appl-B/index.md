@@ -23,10 +23,9 @@ author_notes:
   - Corresponding Author
   - Corresponding Author
 
-date: '2024-08-01'
+date: '2024-09-01'
 doi: 
 publication_types: ['2']
-publication_short: '*Under Reivew*  '
 publication: '*Under Reivew*  '
 abstract: 
 url_pdf: 
