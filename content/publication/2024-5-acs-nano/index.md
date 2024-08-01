@@ -18,7 +18,6 @@ author_notes:
 date: '2024-08-01'
 doi: 
 publication_types: ['2']
-publication_short: '*Under Reivew*  '
 publication: '*Under Reivew*  '
 abstract: 
 url_pdf: 
