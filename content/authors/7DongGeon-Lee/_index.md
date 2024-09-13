@@ -28,9 +28,9 @@ interests:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: JongHun Shin (신종훈)
+title: Dong Geon Lee (이동건)
 user_groups:
-- Graduate Students
+- UnderGrad Students
 ---
 
 ---
