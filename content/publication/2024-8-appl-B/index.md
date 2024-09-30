@@ -26,7 +26,7 @@ author_notes:
 date: '2024-09-01'
 doi: 
 publication_types: ['2']
-publication: '*Under Reivew*  '
+publication: '*Revision Submitted*  '
 abstract: 
 url_pdf: 
 
