@@ -23,10 +23,10 @@ author_notes:
   - Corresponding Author
   - Corresponding Author
 
-date: '2024-09-01'
+date: '2024-10-19'
 doi: 
 publication_types: ['2']
-publication: '*Revision Submitted*  '
+publication: '*Applied Catalysis B: Environmental*,Accepted'
 abstract: 
 url_pdf: 
 
