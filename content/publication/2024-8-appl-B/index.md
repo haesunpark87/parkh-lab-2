@@ -26,7 +26,7 @@ author_notes:
 date: '2024-10-19'
 doi: 
 publication_types: ['2']
-publication: '*Applied Catalysis B: Environmental*,Accepted'
+publication: '*Applied Catalysis B: Environmental*, Accepted'
 abstract: 
 url_pdf: 
 
