@@ -1,6 +1,6 @@
 ---
 title: Haesun gave a talk at the KSME 2024 Spring meeeting on CAE and Applied Mechanics Division
-date: 2024-04-04
+date: 2024-05-01
 #external_link: http://github.com
 image:
   focal_point: 'top'

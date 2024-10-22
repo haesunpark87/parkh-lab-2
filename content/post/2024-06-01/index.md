@@ -1,6 +1,6 @@
 ---
 title: 글로벌 탑 전략 연구단 과제 참여
-date: 2022-03-01
+date: 2024-06-01
 #external_link: http://github.com
 image:
   focal_point: 'top'
