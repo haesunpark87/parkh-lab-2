@@ -1,12 +1,11 @@
 ---
-title:  Prof. Yang from TU Delf 델프트 공대 양지은 교수 방문
-date: 2024-08-19
+title:  PRiME 2024
+date: 2024-10-08
 #external_link: http://github.com
 image:
   focal_point: 'middle'
 ---
-Prof. Yang from TU Delft visited our lab to discuss our collaborative work on water electrolysis electrode design.
-
+The MIDAS group attended PRiME 2024 in Honolulu, HI. Daehyun gave a poster presentation. The Siegel group alumni had a reunion dinner with Don.
 
 
 <!--more-->
