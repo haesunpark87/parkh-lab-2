@@ -1,12 +1,12 @@
 ---
-title: Haesun gave a talk at AMSM 2024
-date: 2024-10-28
+title: 한국연구재단 기초 연구실 과제 선정
+date: 2024-08-01
 #external_link: http://github.com
 image:
   focal_point: 'top'
 ---
 
-Haesun gave an invited talk at AMSM 2024 conference on “Layered Materials for Multivalent Cation Intercalation Electrodes: A Systematic First-Principles Evaluation”
-
+우리 연구실이 한국 연구재단 글로벌 기초연구실 사업에 선정되어 3년동안 "고성능 계산과학 기반 수전해 전극 고도화 연구실"이라는 주제로 주관 연구 기관으로 연구를 하게 되었습니다. 
+중앙대학교 김수길 교수님, 황병일 교수님, 그리고 건국대학교 조한익 교수님 연구실 팀과 공동 연구를 진행 할 예정입니다. 
 
 <!--more-->
