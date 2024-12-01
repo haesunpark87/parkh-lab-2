@@ -1,5 +1,5 @@
 ---
-title: Haesun gave a talk at AMSM 2024
+title: Haesun gave a talk at KETI
 date: 2024-11-27
 #external_link: http://github.com
 image:
