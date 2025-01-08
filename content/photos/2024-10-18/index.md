@@ -1,6 +1,6 @@
 ---
 title:  BRL Workshop
-date: 2024-11-13
+date: 2024-10-18
 #external_link: http://github.com
 image:
   focal_point: 'middle'
