@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Daehyun Kim (김대현)
 user_groups:
-- Graduate Students
+- PhD Students
 ---
 
 

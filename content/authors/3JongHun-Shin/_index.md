@@ -33,7 +33,7 @@ interests:
 superuser: false
 title: JongHun Shin (신종훈)
 user_groups:
-- Graduate Students
+- MS Students
 ---
 
 ---

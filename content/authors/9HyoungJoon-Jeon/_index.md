@@ -1,7 +1,7 @@
 ---
 education:
   courses:
-  - course: MS in Integrative Engineering
+  - course: MS/PhD in Integrative Engineering
     institution: Chung-Ang University
     year: 2025~  
   - course: BS in Mechanical Engineering
@@ -31,7 +31,7 @@ social:
 superuser: false
 title: HyoungJoon Jeon (전형준)
 user_groups:
-- Graduate Students
+- MS Students
 ---
 
 

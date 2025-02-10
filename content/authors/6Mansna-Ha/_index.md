@@ -31,7 +31,7 @@ social:
 superuser: false
 title: Mansang Ha (하만상)
 user_groups:
-- Graduate Students
+- MS Students
 ---
 
 
