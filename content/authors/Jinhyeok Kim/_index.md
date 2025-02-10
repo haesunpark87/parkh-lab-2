@@ -28,7 +28,9 @@ social:
 superuser: false
 title: Jinhyeok Kim (김진혁)
 user_groups:
-- UnderGrad Students
+- Alumni
+---
+Current Position: Applied Materials
 ---
 
 
