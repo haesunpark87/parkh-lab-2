@@ -1,12 +1,15 @@
 ---
 education:
   courses:
+  - course: PhD in Integrative Engineering
+    institution: Chung-Ang University
+    year: 2025.03~
   - course: MS in Integrative Engineering
     institution: Chung-Ang University
-    year: 2023~  
+    year: 2025.02  
   - course: BS in Mechanical Engineering
     institution: Chung-Ang University
-    year: 2022
+    year: 2022.02
 email: ""
 highlight_name: True
 interests:
