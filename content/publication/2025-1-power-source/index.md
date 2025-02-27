@@ -16,7 +16,7 @@ author_notes:
   - Corresponding Author
 
 
-date: '2025-04-15'
+date: '2025-02-01'
 doi: '10.1016/j.jpowsour.2025.236448'
 publication_types: ['2']
 publication: '*Journal of Power Source*, 635, 236448'
