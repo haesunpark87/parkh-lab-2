@@ -3,7 +3,7 @@ title: 'Bayesian optimization of entropy-stabilized metal fluoride conversion ca
 authors:
   - Aditya Sundar
   - Jehee Park
-  - Haesun Park 
+  - Haesun Park
   - Eungje Lee
   - Jae Jin Kim
   - Peter Zapol
