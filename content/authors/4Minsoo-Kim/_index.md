@@ -30,7 +30,7 @@ interests:
 superuser: false
 title: Minsoo Kim (김민수)
 user_groups:
-- UnderGrad Students
+- Alumni
 ---
-
+Current Position: TBD
 
