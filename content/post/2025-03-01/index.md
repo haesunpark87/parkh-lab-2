@@ -1,5 +1,5 @@
 ---
-title: HyoungJoon and Wonwoo joined the group!
+title: Hyobin joined the group!
 date: 2025-03-01
 #external_link: http://github.com
 image:
