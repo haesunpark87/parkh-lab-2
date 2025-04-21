@@ -25,7 +25,7 @@ author_notes:
   - 
   - 
   - 
-  - 
+  - Corresponding Author
   - Corresponding Author
   - Corresponding Author
 
