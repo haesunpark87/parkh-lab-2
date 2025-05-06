@@ -8,10 +8,10 @@ author_notes:
   - Corresponding Author
 
 
-date: '2025-04-21'
+date: '2025-05-05'
 doi: ''
 publication_types: ['2']
-publication: '*In revision*, xxx, xxx (xxxx)'
+publication: '*ACS Applied Energy Materials*, (2025)'
 abstract: 
 
 url_pdf: 'publications/2025-3-ACS-AEM.pdf'
