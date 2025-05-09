@@ -6,7 +6,7 @@ authors:
   - Suji Kim
   - Haesun Park
   - Won-Hee Ryu
-  author_notes:
+author_notes:
   - 
   - 
   - 
