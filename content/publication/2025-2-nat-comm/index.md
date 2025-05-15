@@ -33,7 +33,7 @@ author_notes:
 date: '2025-05-06'
 doi: ''
 publication_types: ['2']
-publication: '*Nature Communications*, Accepted.''
+publication: '*Nature Communications*, Accepted'
 abstract: 
 
 url_pdf: 'publications/2025-2-nat-comm.pdf'
