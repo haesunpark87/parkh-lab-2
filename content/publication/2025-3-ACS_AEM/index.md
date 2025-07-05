@@ -11,7 +11,7 @@ author_notes:
 date: '2025-05-19'
 doi: '10.1021/acsaem.5c00560'
 publication_types: ['2']
-publication: '*ACS Applied Energy Materials*, (2025)'
+publication: '*ACS Applied Energy Materials*, 8, 11, 7217-7225 (2025)'
 abstract: 
 
 url_pdf: 'publications/2025-3-ACS-AEM.pdf'

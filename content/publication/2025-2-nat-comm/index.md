@@ -33,7 +33,7 @@ author_notes:
 date: '2025-07-01'
 doi: '10.1038/s41467-025-61074-9'
 publication_types: ['2']
-publication: '*Nature Communications*, 16, 1-9'
+publication: '*Nature Communications*, 16, 1-9, (2025)'
 abstract: 
 
 url_pdf: 'publications/2025-2-nat-comm.pdf'
