@@ -30,8 +30,8 @@ author_notes:
   - Corresponding Author
 
 
-date: '2025-05-06'
-doi: ''
+date: '2025-07-01'
+doi: '10.1038/s41467-025-61074-9'
 publication_types: ['2']
 publication: '*Nature Communications*, 16, 1-9'
 abstract: 

@@ -8,8 +8,8 @@ author_notes:
   - Corresponding Author
 
 
-date: '2025-05-05'
-doi: ''
+date: '2025-05-19'
+doi: '10.1021/acsaem.5c00560'
 publication_types: ['2']
 publication: '*ACS Applied Energy Materials*, (2025)'
 abstract: 
