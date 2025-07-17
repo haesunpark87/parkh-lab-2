@@ -7,7 +7,7 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: Reserach Area
+  - name: Research Area
     url: research
     weight: 20
 
