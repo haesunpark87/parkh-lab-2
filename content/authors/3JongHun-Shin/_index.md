@@ -21,9 +21,9 @@ interests:
 - Nex-Gneration Anode
 
 
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:parkh@cau.ac.kr
+- icon: envelope
+  icon_pack: fas
+  link: mailto:xxz56789@cau.ac.kr
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=XKMG__wAAAAJ&hl=kr

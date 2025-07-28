@@ -18,9 +18,9 @@ interests:
 - Atomic Layer Deposition
 
 
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:parkh@cau.ac.kr
+- icon: envelope
+  icon_pack: fas
+  link: mailto:dlehdrjsdlgh@naver.com
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=XKMG__wAAAAJ&hl=kr

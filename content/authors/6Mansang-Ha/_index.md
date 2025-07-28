@@ -19,9 +19,9 @@ interests:
 
 role: 
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:parkh@cau.ac.kr
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mansang1221@cau.ac.kr
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=XKMG__wAAAAJ&hl=kr

@@ -18,9 +18,9 @@ interests:
 - Data-Driven Materials Discovery
 
 
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:parkh@cau.ac.kr
+- icon: envelope
+  icon_pack: fas
+  link: mailto:nam6592@gmail.com
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=XKMG__wAAAAJ&hl=kr
