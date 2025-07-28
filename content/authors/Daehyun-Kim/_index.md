@@ -22,8 +22,8 @@ interests:
 
 role: 
 social:
-#- icon: envelope
-#  icon_pack: fas
+- icon: envelope
+  icon_pack: fas
   link: mailto:dhkim9669@gmail.com
 #- icon: google-scholar
 #  icon_pack: ai
