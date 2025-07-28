@@ -20,7 +20,7 @@ social:
 interests:
 - Nex-Gneration Anode
 
-
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:xxz56789@cau.ac.kr

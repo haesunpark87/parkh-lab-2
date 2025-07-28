@@ -17,7 +17,7 @@ social:
 interests:
 - Data-Driven Materials Discovery
 
-
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:nam6592@gmail.com

@@ -17,7 +17,7 @@ social:
 interests:
 - Atomic Layer Deposition
 
-
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:dlehdrjsdlgh@naver.com
