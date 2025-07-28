@@ -10,7 +10,7 @@ education:
   - course: BS in Mechanical Engineering
     institution: Chung-Ang University
     year: 2022.02
-email: ""
+email: "dhkim9669@gmail.com"
 highlight_name: True
 interests:
 

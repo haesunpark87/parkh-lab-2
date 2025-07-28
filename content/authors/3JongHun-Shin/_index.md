@@ -7,7 +7,7 @@ education:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
     year: 2024
-email: ""
+email: "xxz56789@cau.ac.kr"
 highlight_name: True
 interests:
 
