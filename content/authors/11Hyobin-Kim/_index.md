@@ -28,7 +28,7 @@ social:
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
 superuser: false
-title: Hyobin Kim | (김효빈)
+title: Hyobin Kim (김효빈)
 user_groups:
 - UnderGrad Students
 ---
