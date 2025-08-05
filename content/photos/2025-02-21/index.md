@@ -7,8 +7,8 @@ image:
 ---
 2025 Commencement ceremony
 
-![](featured.jpg)
-![](featured_2.jpg)
+![](1.jpg)
+![](2.jpg)
 
 
 <!--more-->
