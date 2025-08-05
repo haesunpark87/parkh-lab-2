@@ -74,9 +74,7 @@
 
   </div>
   <div class="ml-3">
-    <!--{{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}-->
-    {{ $thumb := $item.Params.image | default "featured" }}
-    {{ $resource := ($item.Resources.ByType "image").GetMatch $thumb }}   
+    {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }} 
     {{ with $resource }}
     {{ $image := .Resize "540x webp" }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
