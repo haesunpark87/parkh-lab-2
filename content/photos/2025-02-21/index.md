@@ -2,7 +2,7 @@
 title:  2025 Commencement ceremony
 date: 2025-02-21
 #external_link: http://github.com
-figured: 1.jpg
+image: 
   focal_point: 'middle'
 ---
 2025 Commencement ceremony
