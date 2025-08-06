@@ -1,11 +1,11 @@
 ---
-title:  Group Dinner 연구실 회식
-date: 2025-05-01
+title:  Minsoo Farewell Party 민수 환송회
+date: 2025-08-01
 #external_link: http://github.com
 image: 
   focal_point: 'middle'
 ---
-Group Dinner 연구실 회식
+Minsoo Farewell Party 민수 환송회
 
 ![](1.jpg)
 ![](2.jpg)
