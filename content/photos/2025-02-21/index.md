@@ -5,7 +5,7 @@ date: 2025-02-21
 image: 
   focal_point: 'middle'
 ---
-2025 Commencement ceremony
+2025 Commencement ceremony 2025년 졸업식
 ![](1.jpg)
 
 
