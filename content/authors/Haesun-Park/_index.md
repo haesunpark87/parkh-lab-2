@@ -1,5 +1,5 @@
 ---
-bio: My research interests include computational materials science, energy storage/conversion materials, data-driven discovery of materials.
+bio: My research interests include computational materials science, energy storage/conversion materials, and data-driven discovery of materials.
 education:
   courses:
   - course: PhD in Mechanical Engineering
