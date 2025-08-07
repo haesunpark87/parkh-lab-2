@@ -3,11 +3,13 @@ title: 'Tuning Interface Dynamics of Benzene-based Molecular Dipoles for High Ca
 authors:
   - Chae Yeong Son
   - Daehyun Kim
+  - Huijun Kim
   - Haesun Park
   - Won-Hee Ryu
 author_notes:
   - Equal Contribution 
   - Equal Contribution 
+  -
   - Corresponding Author
   - Corresponding Author
 
