@@ -5,7 +5,7 @@ date: 2025-04-02
 image: 
   focal_point: 'middle'
 ---
-2024 Spring KECS meeting 2024년 추계 전기화학회
+2025 Spring KECS meeting 2025년 춘계 전기화학회
 
 ![](1.jpg)
 ![](2.jpg)

@@ -11,9 +11,6 @@ Minsoo Farewell Party 민수 환송회
 ![](2.jpg)
 ![](3.jpg)
 ![](4.jpg)
-![](5.jpg)
-![](6.jpg)
-![](7.jpg)
-![](8.jpg)
+
 
 <!--more-->
