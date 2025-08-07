@@ -1,5 +1,5 @@
 ---
-title:  2024 Spring KECS meeting 2025년 추계 전기화학회
+title:  2025 Spring KECS meeting 2025년 춘계 전기화학회
 date: 2025-04-02
 #external_link: http://github.com
 image: 
