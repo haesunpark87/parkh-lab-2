@@ -31,7 +31,7 @@ social:
 #- icon: cv
 #  icon_pack: ai
 #  link: 'files/CV_Haesun_Park.pdf'
-superuser: false
+superuser: true
 title: Daehyun Kim (김대현)
 user_groups:
 - PhD Students
