@@ -3,7 +3,7 @@ education:
   courses:
   - course: BS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2024
 email: ""
 highlight_name: True
 interests:
@@ -32,5 +32,5 @@ title: Minsoo Kim (김민수)
 user_groups:
 - Alumni
 ---
-Current Position: TBD
+Current Position: PhD sutdent at University of Texas - Austin
 
