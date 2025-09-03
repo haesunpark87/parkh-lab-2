@@ -22,11 +22,16 @@ education:
     
 experience:
   positions:
-  - position: Assistant Professor
-    institution: School of Integrative Engineering, Chung-Ang University, Seoul, South Korea
-    year: 2021.09 ~ Present
+  - position: Associate Professor
+    #institution: School of Integrative Engineering, Chung-Ang University, Seoul, South Korea
+    year: 2025.09 ~ Present
     institution_logo : cau_logo.png
     institution_url : 'https://neweng.cau.ac.kr/index.do'
+  - position: Assistant Professor
+    institution: School of Integrative Engineering, Chung-Ang University, Seoul, South Korea
+    year: 2021.09 ~ 2025.08
+    #institution_logo : cau_logo.png
+    #institution_url : 'https://neweng.cau.ac.kr/index.do'
   - position: Postdoctoral Appointee
     institution: Materials Science Division, Argonne National Laboratory, Lemont, IL USA
     institution_logo : argonne_logo.png
