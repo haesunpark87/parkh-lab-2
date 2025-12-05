@@ -1,5 +1,5 @@
 ---
-title: Haesun gave a talk at 2025 China-Korea Battery Symposium
+title: Haesun gave a talk at the KIM+ 2025 Fall Conference
 
 date: 2025-10-20
 #external_link: http://github.com
