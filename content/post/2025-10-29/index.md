@@ -1,7 +1,7 @@
 ---
 title: Haesun gave a talk at the KIM+ 2025 Fall Conference
 
-date: 2025-10-20
+date: 2025-10-29
 #external_link: http://github.com
 image:
   focal_point: 'top'
