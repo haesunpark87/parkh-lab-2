@@ -8,8 +8,8 @@ image:
 Minsoo Farewell Party 민수 환송회
 
 ![](1.jpg)
-![](2.jpg)
-![](3.jpg)
+![](2.png)
+![](3.png)
 ![](4.jpg)
 
 
