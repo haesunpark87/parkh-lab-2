@@ -19,7 +19,7 @@ author_notes:
 date: '2025-11-01'
 doi: ''
 publication_types: ['2']
-publication: 'Submitted'
+publication: '*Submitted*'
 abstract: 
 
 
