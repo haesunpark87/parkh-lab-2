@@ -7,7 +7,7 @@ image:
   focal_point: 'top'
 ---
 
-학부연구생 (김효빈, 남상현, 윤원우, 이동건) 학생이 2025 중앙대학교 CAU 공학학술제 E^2: Engineering for Everyone 에서 부총장상을 수상했습니다! 축하합니다!
+학부연구생들(김효빈, 남상현, 윤원우, 이동건)이 2025 중앙대학교 CAU 공학학술제 E^2: Engineering for Everyone 에서 부총장상을 수상했습니다! 축하합니다!
 
 
 <!--more-->
