@@ -1,17 +1,19 @@
 ---
-title: 'Surface-engineered Ni-Pt Alloys as Robust and Cost-effective Electrocatalysts for High-Performance Proton Exchange Membrane Water Electrolysis'
+title: 'Phase-selective asymmetric SEI formation dynamics in Si–graphite composite electrodes'
 authors:
-  - Kyeong-Rim Yeo
+  - Inho Kim
+  - Sunggyu Yoon
   - Daehyun Kim
-  - Hoyoung Kim
-  - Sung Jong Yoo
-  - Jong Hyun Jang
+  - Seoung-Bum Son
+  - Sung-Jin Chang
   - Haesun Park
-  - Soo-Kil Kim
+  - Minkyu Kim 
+
+
 author_notes:
   - Equal Contribution 
   - Equal Contribution 
-  -
+  - Equal Contribution
   -
   -
   - Corresponding Author
