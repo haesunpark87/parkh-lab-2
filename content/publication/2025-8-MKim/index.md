@@ -5,7 +5,7 @@ authors:
   - Daehyun Kim
   - Chiwon Choi
   - Jong-Min Oh
-  - Heasun Park
+  - Haesun Park
   - Minkyung Kim
 author_notes:
   - Equal Contribution 
