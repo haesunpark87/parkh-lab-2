@@ -1,9 +1,12 @@
 ---
 education:
   courses:
-  - course: BS in Integrative Engineering
+  - course: MS in Integrative Engineering
     institution: Chung-Ang University
-    year: On-going
+    year: 2026.03~
+- course: BS in Integrative Engineering
+    institution: Chung-Ang University
+    year: 2026.02
 email: ""
 highlight_name: True
 interests:
@@ -30,7 +33,7 @@ social:
 superuser: false
 title: Dong Geon Lee (이동건)
 user_groups:
-- UnderGrad Students
+- MS Students
 ---
 
 ---
