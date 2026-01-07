@@ -15,7 +15,7 @@ role:
 social:
 
 interests:
-- Na-ion Batteries
+- Sodium ion Batteries
 
 social:
 - icon: envelope
