@@ -4,7 +4,7 @@ education:
   - course: MS in Integrative Engineering
     institution: Chung-Ang University
     year: 2026.03~
-- course: BS in Integrative Engineering
+  - course: BS in Integrative Engineering
     institution: Chung-Ang University
     year: 2026.02
 email: ""
