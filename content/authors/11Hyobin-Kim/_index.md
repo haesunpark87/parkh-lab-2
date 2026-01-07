@@ -15,7 +15,7 @@ role:
 social:
 
 interests:
-- TBD
+- Solid-State Batteries
 
 social:
 - icon: envelope

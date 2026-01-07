@@ -15,7 +15,7 @@ role:
 social:
 
 interests:
-- TBD
+- Na-ion Batteries
 
 social:
 - icon: envelope
