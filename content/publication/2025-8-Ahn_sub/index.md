@@ -1,12 +1,12 @@
 ---
-title: 'Unveiling the Hidden Interface: Pre-SEI governs Li morphology in Anode-Free Li Metal Batteries'
+title: 'Isolated Ir Step Decoration on Pt(100) via Self-Terminated Electrodeposition for Enhanced Electrochemical Ammonia Oxidation'
 authors:
-  - Hyunmin Yoon
+  - Hyunki Kim
   - Daehyun Kim
-  - Chiwon Choi
-  - Jong-Min Oh
+  - Seokjin Hong
+  - Junbeom Bang
   - Haesun Park
-  - Minkyung Kim
+  - Sang Hyun Ahn
 author_notes:
   - Equal Contribution 
   - Equal Contribution 
@@ -16,10 +16,10 @@ author_notes:
   - Corresponding Author
 
 
-date: '2025-11-01'
+date: '2026-02-28'
 doi: ''
 publication_types: ['2']
-publication: '*In revision*'
+publication: '*Submitted*'
 abstract: 
 
 
