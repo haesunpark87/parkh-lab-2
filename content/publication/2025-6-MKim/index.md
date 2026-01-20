@@ -19,7 +19,7 @@ author_notes:
 date: '2026-01-15'
 doi: ''
 publication_types: ['2']
-publication: '*Accepted*'
+publication: '*Advanced Materials, Accepted*'
 abstract: 
 
 
