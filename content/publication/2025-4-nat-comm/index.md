@@ -1,5 +1,5 @@
 ---
-title: 'Silver exsolution from Li-argyrodite electrolytes for anode-less all-solid-state batteries'
+title: 'Silver exsolution from Li-argyrodite electrolytes for initially anode-free all-solid-state batteries'
 authors:
   - Seung Ho Choi
   - Chang Hoon Baek
